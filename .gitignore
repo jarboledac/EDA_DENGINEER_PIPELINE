@@ -1,2 +1,2 @@
 pipeline_aws_airflow/logs/*
-pipeline_aws_airflow/data/*
+pipeline_aws_airflow/data/*.csv
