@@ -7,3 +7,5 @@ The before architecture was implemented with the AWS services and search to have
 Next a visual from the dashboard.
 
 ![alt text](https://i.imgur.com/gtZJlA8.png)
+
+The data used in this implementation is the private character and was related with the thefts in Medellín city.
